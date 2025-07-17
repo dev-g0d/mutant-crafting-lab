@@ -1,0 +1,5 @@
+{
+  "name": "Mutant Crafting Lab",
+  "description": "An infinite crafting game where you combine chemical and biological elements to create new mutant specimens. Each combination generates a unique visual result using AI.",
+  "requestFramePermissions": []
+}
